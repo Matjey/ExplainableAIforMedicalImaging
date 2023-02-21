@@ -15,7 +15,7 @@ LIME
 LIME is a technique for generating local explanations for the predictions of machine learning models. In this project, LIME is used to highlight the regions of the brain that are most important for the prediction, and to provide insights into the reasoning behind the prediction.
 
 Results
-The model achieved an accuracy of 85% on a test set of imaging data. The LIME technique used in the model also provided valuable insights into the regions of the brain that are most important for predicting Alzheimer's disease.
+The model achieved an accuracy of 96.6% on a test set of imaging data. The LIME technique used in the model also provided valuable insights into the regions of the brain that are most important for predicting Alzheimer's disease.
 
 Requirements
 Python 3.6 or later
@@ -40,4 +40,4 @@ Ciresan, D., Meier, U., Schmidhuber, J., 2012. Multi-column deep neural networks
 Deepak, S., Ameer, P.M., 2019. Brain tumor classification using deep CNN features via transfer learning. Computers in Biology and Medicine, 111, p.103345. 10.1016/j.compbiomed.2019.103345. 
 Deng, L., 2014. Deep Learning: Methods and Applications [online]. Foundations and Trends® in Signal Processing, 7(3-4), pp.197–387. Available at: https://www.nowpublishers.com/article/Details/SIG-039. 
 . 
-The LIME implementation used in this project is based on the work of Ribeiro et al. (2016) (https://arxiv.org/abs/1602.04938) and https://coderzcolumn.com/tutorials/artificial-intelligence/lime-explain-keras-image-classification-network-predictions.
+The LIME implementation used in this project is based on the work of Ribeiro et al. (2016) (https://arxiv.org/abs/1602.04938) and https://coderzcolumn.com/tutorials/artificial-intelligence).
